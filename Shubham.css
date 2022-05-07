@@ -1,0 +1,16 @@
+<html>
+   <head>
+   </head>
+      <body>
+         <form>
+             
+             FIRST NAME:<input type="text" name="first name"><br>
+             LAST NAME: <input type="text"name="last name"><br>
+             MOBILE NO: <input type="number" name="unmber"><br>
+             G-MAIL:    <input type="g-mail" name="g-mail"><br>
+             PASSWORD:  <input type="password" name="password"><br>
+                <input type="submit" name="submit" value="submit">
+                  <input type="reset" name="reset" value="reset">
+         </form>
+      </body>
+</html>
