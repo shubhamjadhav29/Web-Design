@@ -1,0 +1,22 @@
+<html>
+ <body>
+ <script>
+ var grade='B';
+ var result;
+ switch(grade){
+ case'A';
+ result="A grade";
+ break;
+ case'B';
+ result="B grade";
+ break;
+ case'C'
+ result="c gread";
+ break;
+ default;
+ result="no gread";
+ }
+ document.write(result);
+ </script>
+ </body>
+ </html>
